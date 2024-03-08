@@ -1,2 +1,0 @@
-# Figure source files
-
